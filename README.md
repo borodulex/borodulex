@@ -1,9 +1,10 @@
-## Приветствую! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Хей! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Chat on Telegram](https://img.shields.io/badge/-Чат_в_Telegram-eeeeee?style=for-the-badge&logo=telegram)](https://t.me/borodulex) [![Chat on Linkedin](https://img.shields.io/badge/-Linkedin-eeeeee?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ilya-borodulin)
 
 ### В данный момент я:
 
+- Тружусь в команде над новым сайтом для [lubimovka.ru](https://lubimovka.ru/)
 - Оттачиваю навыки JavaScript и React 🚀
 - Cтремлюсь работать над боевыми проектами бок о бок с профессионалами
 - В обучении придерживаюсь модели "10-20-70" (10% теории, 20% менторства, 70% практики)
